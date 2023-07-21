@@ -1,0 +1,5 @@
+requests
+certifi>=2023.7.21
+idna<3,>=3.4
+chardet<5,>=5.1.0
+urllib3<1.27,>=2.0.3
